@@ -1,4 +1,4 @@
-Домашняя работа по Python: unittest with mock, 5 issue. Инструкция к запуску тестирования
+Отчет по тестированию
 ==============================
 Отчет к покрытию лежит в папке htmlcov, index.html
 https://htmlpreview.github.io/?https://github.com/fedotovroman/aaa_python/blob/main/5%20tests%20in%20python/5_issue/htmlcov/index.html
